@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 __author__ = 'Philip'
-from keys import TwitterApiAuthKeys, FileNameKeys, JsonKeys, GeoFileNameKeys, TweetKeywordKeys
+from app.keys import FileNameKeys, JsonKeys, GeoFileNameKeys, TweetKeywordKeys
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
