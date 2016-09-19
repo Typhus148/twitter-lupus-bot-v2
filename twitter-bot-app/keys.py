@@ -23,13 +23,6 @@ class JsonKeys:
     LOCATION_KEY = 'location'
 
 
-class TwitterApiAuthKeys:
-    ACCESS_TOKEN_KEY = '737646162820399104-MFFoB4Q0GkY6W9PCZRv51MzXWaHoOvN'
-    ACCESS_TOKEN_SECRET_KEY = 'rR2Kd80DJbDYJFJlBJcjZLMrsn6Z7qemks40Zrz8In2EC'
-    CONSUMER_KEY = 'VFUVMZ3MLPNvWRnvLcJGV3qzc'
-    CONSUMER_SECRET_KEY = '1ZFOZbL5lKtQBfI0ad2rjlQlnDIrwegHeWnSMzeFygkbogjJaC'
-
-
 class GeoFileNameKeys:
     GEO_DATA_FILENAME_KEY = 'geo_data_states.json'
     GEO_STATES_UPDATE_STATUS_KEY = 'geo_data_states_update_status.json'
